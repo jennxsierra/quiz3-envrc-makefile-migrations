@@ -1,6 +1,8 @@
 # [CMPS3162] Quiz #3: Makefile Migrations & .envrc file
 
-> [!NOTE] The `.envrc` file used serves as an example and is for demonstration purposes only.
+> [!NOTE]
+>
+> The `.envrc` file used serves as an example and is for demonstration purposes only.
 
 | Attribute      | Details                                                    |
 | -------------- | ---------------------------------------------------------- |
